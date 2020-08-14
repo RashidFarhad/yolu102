@@ -17,7 +17,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://rashidfarhad.github.io/RashaStore/Icon.png</string>
+					<string>https://raw.githubusercontent.com/RashidFarhad/yolu102/master/RashidFarhad1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>qg.sizu.chimera</string>
+				<string>cf.rashidfarhad.Chimera</string>
 				<key>bundle-version</key>
 				<string>1.4.0</string>
 				<key>kind</key>
@@ -37,6 +37,8 @@
 				<key>title</key>
 				<string>
 ⚡Chimera 1.4.0⚡
+
+🔥Jailbreak🔥
  
 RashidFarhad Store📦
 
