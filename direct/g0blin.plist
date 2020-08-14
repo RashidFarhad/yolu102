@@ -17,19 +17,19 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/RashidFarhad/yolu102/master/RashidFarhad1.png</string>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.iphonecake.com/images/Icon-60.png</string>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>ml.rashidfarhad.g0blin</string>
+				<string>cf.rashidfarhad.g0blin</string>
 				<key>bundle-version</key>
 				<string>v1.0 RC2</string>
 				<key>kind</key>
