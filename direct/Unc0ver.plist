@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -23,7 +23,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.iphonecake.com/images/Icon-60.png</string>
+					<string>https://raw.githubusercontent.com/RashidFarhad/yolu102/master/RashidFarhad1.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
