@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github-production-release-asset-2e65be.s3.amazonaws.com/147667687/34a65300-1a76-11ea-9dc8-eac3ed4d92fd?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200816%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200816T163858Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=f9b4e525b2f48be0ea8593aeb6638c9ae9524ba4edfbcd0a9c9e23e1ec177d99&amp;X-Amz-SignedHeaders=host&amp;actor_id=69083831&amp;repo_id=147667687&amp;response-content-disposition=attachment%3B%20filename%3DUndecimus-v3.8.0.b1.ipa&amp;response-content-type=application%2Foctet-stream</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>science.xnuu.undecimus</string>
+				<key>bundle-version</key>
+				<string>v3.8.0.b1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>
+⚡Unc0ver 11-12.4⚡
+
+🔥Jailbreak🔥
+ 
+RashidFarhad Store📦
+
+SnapChat: r4sh1d3 💙
+Instagram: x_9xxz 🖤
+Telegram:RashidFarhad ❤️
+     			</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
