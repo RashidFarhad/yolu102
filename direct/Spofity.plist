@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+					<string>https://eonhubapp.com/ipas/spotify++.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -23,22 +23,22 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.iphonecake.com/images/Icon-60.png</string>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>org.coolstar.odyssey</string>
+				<string>ml.rashid.spofity</string>
 				<key>bundle-version</key>
-				<string>1.0 Beta3</string>
+				<string>vBeta7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>
-⚡Odyssey 1.0 Beta3⚡
+⚡Spofity++⚡
 
-🔥Jailbreak🔥
+🔥App Store🔥
  
 RashidFarhad Store📦
 
